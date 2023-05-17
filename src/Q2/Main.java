@@ -11,8 +11,6 @@ public class Main {
         // Desfazer ultima ação
         //  no caso tira açao 2
         funcionalidade.desfazer();
-        funcionalidade.desfazer();
-        funcionalidade.desfazer();
 
         // Obter tamanho atual da lista
         int size = funcionalidade.getSize();
